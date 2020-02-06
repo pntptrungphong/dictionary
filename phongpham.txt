@@ -1,0 +1,3 @@
+account|1|tai khoan|nguoi dung|aaa|bbb|ccc|on my account|
+air|1|khong khi|cat|lol|me|may| i want to fuck|
+banana|2|chuoi||aaa|bbb|ccc|i eat a banana very much|
